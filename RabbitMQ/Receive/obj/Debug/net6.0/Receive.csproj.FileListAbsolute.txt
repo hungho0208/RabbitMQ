@@ -1,0 +1,17 @@
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\bin\Debug\net6.0\Receive.exe
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\bin\Debug\net6.0\Receive.deps.json
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\bin\Debug\net6.0\Receive.dll
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\bin\Debug\net6.0\Receive.pdb
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.dll
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\refint\Receive.dll
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.pdb
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+D:\專案\凱基HR\kgib-hr-portal\RabbitMQ\Receive\obj\Debug\net6.0\ref\Receive.dll
